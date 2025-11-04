@@ -1,10 +1,10 @@
 
-Project Name: “SK Portfolio”
+# Project Name: “SK Portfolio”
 
-- Description:
+## Description:
 Portfolio of Sun Kim that contains information about both his personal and career life and his achievements throughout the Boston University Software Development program. The website navigation allows the user to click through different sections of the portfolio including biography, projects, resume, photo gallery, and a way to get contacted if users are interested in connecting further. You will be able to find interesting facts and key information about Sun Kim as you check out the website!
 
-- Requirements & Installation
+## Requirements & Installation
 
 To run this project locally, you will need:
 	•	A modern web browser (e.g. Google Chrome, Microsoft Edge, Safari)
@@ -21,7 +21,7 @@ If you haven’t already installed Node.js:
 node -v
 npm -v
 
-Install Dependencies:
+## Install Dependencies:
 1. Navigate into the project folder:
 cd CS601_HW6_Kim
 2. Install project dependencies
@@ -73,9 +73,9 @@ In your tsconfig.json, ensure the following settings are configured
 }    
 
 
-- Technologies Used: HTML5, CSS3, JavaScript, TypeScript, Node.js, npm, React
+## Technologies Used: HTML5, CSS3, JavaScript, TypeScript, Node.js, npm, React
 
-- Key features of the code
+## Key features of the code
 
 
 - Navigation using React - website can be navigated via the Header or the Footer section. A separate component for the navigation is created and is linked to each of the pages in the main application via dynamic routing and the React Router. This allows a seamless navigation between the home page and individual section pages. Furthermore, the URL is configured so that it uses the section name to generate a unique URL based on the title of the page. This allows the user to know which page they are on as well as easily remember the URL link to navigate between pages.
