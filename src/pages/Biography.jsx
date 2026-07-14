@@ -23,7 +23,7 @@ const Biography = () => {
 
       <section className="container">
         <img
-          src="https://en.wikipedia.org/wiki/Golf#/media/File:Golfer_swing.jpg"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrfmE_HqCqZnkSJZqXj_SOK07WntTyvoxqYTPkR3JuYA&s=10"
           alt="golf"
           className="container-icon"
         />
