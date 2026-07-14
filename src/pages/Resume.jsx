@@ -8,7 +8,7 @@ const Resume = () => {
       {/* Main Content */}
       <h1>My Resume</h1>
       <div className="resume-container">
-        <embed src="/CS601_FinalProject_Kim/downloads/resume.pdf" type="application/pdf" width="100%" height="600px" />
+        <embed src="/SK_Personal_Portfolio_Website/downloads/resume.pdf" type="application/pdf" width="100%" height="600px" />
       </div>
     </>
   );

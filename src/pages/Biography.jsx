@@ -23,7 +23,7 @@ const Biography = () => {
 
       <section className="container">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Golfer_swing.jpg/1200px-Golfer_swing.jpg"
+          src="https://en.wikipedia.org/wiki/Golf#/media/File:Golfer_swing.jpg"
           alt="golf"
           className="container-icon"
         />
@@ -44,7 +44,7 @@ I can get into in the future!</p>
 
       <section className="container">
         <img
-          src="https://edmmaniac.com/wp-content/uploads/2023/12/FemaleDJ-1600x1067.jpg"
+          src="https://static-media.hotmart.com/BriSIu8_ZHdhJ45RAJRft0aw--g=/705x0/https://uploads.teachablecdn.com/attachments/wiF6yGIRXWXPtph2l55w_Beginning+Music+Theory+for+Teens+header.jpg"
           alt="music"
           className="container-icon"
         />

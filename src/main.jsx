@@ -13,7 +13,7 @@ import Photos from './pages/Photos.jsx';
 import ContactForm from './pages/ContactForm.jsx';
 
 const App = () => (
-  <BrowserRouter basename="/CS601_FinalProject_Kim">
+  <BrowserRouter basename="/SK_Personal_Portfolio_Website">
     <HeaderWidget />
     <Routes>
       <Route path="/" element={<HomePage />} />
