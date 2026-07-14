@@ -11,7 +11,7 @@ To run this project locally, you will need:
 	•	A code editor or IDE (e.g. Visual Studio Code)
 	•	Node. Js and npm installed on you system
 
-Note: This website is currently hosted on a public domain in the following link: https://sunkim0602.github.io/CS601_FinalProject_Kim/. 
+Note: This website is currently hosted on a public domain in the following link: https://sunkim0602.github.io/SK_Personal_Portfolio_Website/. 
 To view it via IDE, you must clone or download the project folder (CS601_HW6_Kim) and run it locally using an IDE and terminal.
 
 If you haven’t already installed Node.js:
